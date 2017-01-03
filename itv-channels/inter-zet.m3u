@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:0,1 Kanal
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/210_110.sdp
+#EXTINF:0,8 kanal
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/340_110.sdp
+#EXTINF:0,A-One
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/37_110.sdp
+#EXTINF:0,Amazing Life
+rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/170_110.sdp
+#EXTINF:0,Euronews
+rtsp://rtsp-v3-spbtv.elt.spbtv.com/spbtv_v3_1/52_110.sdp
+#EXTINF:0,Fenix Kino
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/332_110.sdp
+#EXTINF:0,Humor Box
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/184_110.sdp
+#EXTINF:0,Karusel
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/232_110.sdp
+#EXTINF:0,Kultura
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/214_110.sdp
+#EXTINF:0,Mir24
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/468_110.sdp
+#EXTINF:0,MirTV
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/103_110.sdp
+#EXTINF:0,Orujie
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/168_110.sdp
+#EXTINF:0,Prosveshenie
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/472_110.sdp
+#EXTINF:0,RBK TV
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/31_110.sdp
+#EXTINF:0,Ren TV
+rtsp://rtsp-v3-spbtv.msk.spbtv.com:554/spbtv_v3_1/118_110.sdp
+#EXTINF:0,Rostov
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/508_110.sdp
+#EXTINF:0,Russia 1.
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/211_110.sdp
+#EXTINF:0,Russia 2
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/85_110.sdp
+#EXTINF:0,Russia 24
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/30_110.sdp
+#EXTINF:0,SovershennoSecretno
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/261_110.sdp
+#EXTINF:0,TV-Penza
+rtsp://rtsp-v3-spbtv.msk.spbtv.com/spbtv_v3_1/505_110.sdp
