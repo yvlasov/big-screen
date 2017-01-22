@@ -1,121 +1,39 @@
 #EXTM3U
 #EXTINF:0,Первый канал
-udp://@235.10.10.1
-#EXTINF:0,Россия
-udp://@235.10.10.2
-#EXTINF:0,Звезда
-udp://@235.10.10.9
-#EXTINF:0,НТВ
-udp://@235.10.10.3
+udp://@235.10.10.1:1234
 #EXTINF:0,Пятый
-udp://@235.10.10.12
-#EXTINF:0,Культура
-udp://@235.10.10.7
-#EXTINF:0,СТС
-udp://@235.10.10.5
+udp://@235.10.10.12:1234
+#EXTINF:0,Че
+udp://@235.10.10.7:1234
+#EXTINF:0,Пятница
+udp://@235.10.10.5:1234
+#EXTINF:0,Disney
+udp://@235.10.10.4:1234
+#EXTINF:0,МАТЧ! ТВ
+udp://@235.10.10.15:1234
+#EXTINF:0,НТВ
+udp://@235.10.10.11:1234
 #EXTINF:0,ТНТ
-udp://@235.10.10.4
-#EXTINF:0,TDK
-udp://@235.10.10.21
-#EXTINF:0,БСТ (Башкортостан)
-udp://@235.10.10.57
-#EXTINF:0,Ника ТВ (Калуга)
-udp://@235.10.10.59
-#EXTINF:0,Татарстан
-udp://@235.10.10.48
-#EXTINF:0,Интересное ТВ
-udp://@235.10.10.15
-#EXTINF:0,НСТ
-udp://@235.10.10.11
-#EXTINF:0,РЕН-ТВ
-udp://@235.10.10.29
-#EXTINF:0,ТВ Центр
-udp://@235.10.10.19
-#EXTINF:0,ТВ3
-udp://@235.10.10.50
-#EXTINF:0,MGM
-udp://@235.10.10.44
-#EXTINF:0,Дом кино
-udp://@235.10.10.16
-#EXTINF:0,2x2
-udp://@235.10.10.60
-#EXTINF:0,Cartoon Network - TCM
-udp://@235.10.10.39
-#EXTINF:0,Jetix
-udp://@235.10.10.18
-#EXTINF:0,Jetix PLAY
-udp://@235.10.10.22
-#EXTINF:0,Теленяня
-udp://@235.10.10.13
-#EXTINF:0,Animal Planet
-udp://@235.10.10.25
-#EXTINF:0,WILD
-udp://@235.10.10.41
-#EXTINF:0,National Geographic
-udp://@235.10.10.24
-#EXTINF:0,Discovery Channel
-udp://@235.10.10.23
-#EXTINF:0,Discovery Travel & Living
-udp://@235.10.10.34
-#EXTINF:0,Discovery Science
-udp://@235.10.10.30
-#EXTINF:0,Discovery World
-udp://@235.10.10.42
-#EXTINF:0,365 дней
-udp://@235.10.10.36
-#EXTINF:0,Первый Автомобильный
-udp://@235.10.10.54
-#EXTINF:0,Авто Плюс
-udp://@235.10.10.46
-#EXTINF:0,Extreme Sport
-udp://@235.10.10.43
-#EXTINF:0,Русский Экстрим
-udp://@235.10.10.26
-#EXTINF:0,7 ТВ
-udp://@235.10.10.35
-#EXTINF:0,Спорт
-udp://@235.10.10.47
-#EXTINF:0,Первый игровой
-udp://@235.10.10.49
-#EXTINF:0,MTV
-udp://@235.10.10.6
-#EXTINF:0,Муз ТВ
-udp://@235.10.10.10
-#EXTINF:0,Bridge TV
-udp://@235.10.10.32
-#EXTINF:0,MTV Dance
-udp://@235.10.10.28
-#EXTINF:0,A-ONE
-udp://@235.10.10.31
-#EXTINF:0,VH-1 Classic
-udp://@235.10.10.37
-#EXTINF:0,MCM Top
-udp://@235.10.10.38
-#EXTINF:0,O2 TV
-udp://@235.10.10.52
-#EXTINF:0,RUTV
-udp://@235.10.10.51
-#EXTINF:0,BIZ TV
-udp://@235.10.10.55
-#EXTINF:0,Шансон
-udp://@235.10.10.53
-#EXTINF:0,РБК
-udp://@235.10.10.17
-#EXTINF:0,Вести
-udp://@235.10.10.8
-#EXTINF:0,Euronews
-udp://@235.10.10.27
-#EXTINF:0,CNN
-udp://@235.10.10.40
-#EXTINF:0,Кухня ТВ
-udp://@235.10.10.45
-#EXTINF:0,Eurosport
-udp://@235.10.10.56
-#EXTINF:0,Al Jazeera
-udp://@235.10.10.58
-#EXTINF:0,Blue Hustler
-udp://@235.10.10.33
-#EXTINF:0,VH-1
-udp://@235.10.10.14
-#EXTINF:0,Music box
-udp://@235.10.10.20
+udp://@235.10.10.19:1234
+#EXTINF:0,СТС
+udp://@235.10.10.16:1234
+#EXTINF:0,ТВЦ
+udp://@235.10.10.18:1234
+#EXTINF:0,Те-Ра Студия
+udp://@235.10.10.24:1234
+#EXTINF:0,Домашний
+udp://@235.10.10.6:1234
+#EXTINF:0,Ю
+udp://@235.10.10.10:1234
+#EXTINF:0,СОЮЗ
+udp://@235.10.10.37:1234
+#EXTINF:0,Петербург
+udp://@235.10.10.17:1234
+#EXTINF:0,Россия 24
+udp://@235.10.10.8:1234
+#EXTINF:0,Россия 1
+udp://@235.10.10.14:1234
+#EXTINF:0,Россия К
+udp://@235.10.10.9:1234
+#EXTINF:0,Карусель
+udp://@235.10.10.64:1234
